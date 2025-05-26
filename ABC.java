@@ -1,0 +1,36 @@
+public class ABC {
+  private String var01 = "";
+  private String var02 = "";
+  private String var03 = "";
+  private String var04 = "";
+  private String var05 = "";
+  private String var06 = "";
+  private String var07 = "";
+  private String var08 = "";
+  private String var09 = "";
+  private String var10 = "";
+  private String var11 = "";
+  private String var12 = "";
+  private String var13 = "";
+  private String var14 = "";
+  private String var15 = "";
+  private String var16 = "";
+  private String var17 = "";
+  private String var18 = "";
+  private String var19 = "";
+  private String var20 = "";
+  private String var21 = "";
+  private String var22 = "";
+  private String var23 = "";
+  private String var24 = "";
+  private String var25 = "";
+  private String var26 = "";
+  private String var27 = "";
+  private String var28 = "";
+  private String var29 = "";
+  private String var30 = "";
+  private String var31 = "";
+  private String var32 = "";
+  private String var33 = "";
+  private String var34 = "";
+}
